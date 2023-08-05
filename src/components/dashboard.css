@@ -1,0 +1,27 @@
+.panel {
+    border-radius: 10px;
+    width:90%; 
+    height: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    border: 1px solid #0C2556;
+    
+}
+
+.panel-header {
+    background-color: #0C2556;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.panel-body {
+    display: flex;
+    justify-content: space-between;
+    color: #0C2556;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+}

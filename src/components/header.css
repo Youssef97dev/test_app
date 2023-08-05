@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+background-color: bisque;
+padding-left: 100px;
+padding-right: 100px;
+margin-bottom: 100px;
+}
+
+
